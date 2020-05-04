@@ -16,3 +16,4 @@ For the second assignment, I created a MIPS program that will use a dialog sysca
 
 # Homework 7
 
+For the seventh assignment, I created a MIPS program that will run a bubble sort and sort 500 items. I created another MIPTS program that will run a Selection Sort and sort the same 500 items. From there, I compared the differences between both of these sorts using the Instructions Counter Tool and the Cache comparision tool available in Mars.
