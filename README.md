@@ -14,8 +14,6 @@ For the second assignment, I created a MIPS program that will use a dialog sysca
 
 For the fifth assignment, I created a MIPS program that will use the selection sort to order the contents of a particular array. From there, it will determine the mean, the median, and the standard deviation for the array. After calculating these values, it will output the array before it was sorted, the array after it was sorted, the mean, the median, and the standard deviation.
 
-# Homework 6
-
 # Homework 7
 
 For the seventh assignment, I created a MIPS program that will run a bubble sort and sort 500 items. I created another MIPTS program that will run a Selection Sort and sort the same 500 items. From there, I compared the differences between both of these sorts using the Instructions Counter Tool and the Cache comparision tool available in Mars.
