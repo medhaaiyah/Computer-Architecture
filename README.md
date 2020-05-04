@@ -6,7 +6,7 @@ For the first assignment, I created a MIPS program that prompts the user to type
 
 # Homework 2
 
-
+For the second assignment, I created a MIPS program that will use a dialog syscall that will allow the user to input a string. From thiere, this program will count the number of characters. From there, it will output the string and the character count. The dialog will be up if the user would like to type another string value. When the user is done, it will output a dialog message and then exit.
 
 # Homework 3
 
