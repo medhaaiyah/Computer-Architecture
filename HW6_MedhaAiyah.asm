@@ -1,5 +1,5 @@
-##Ritvik Divanji
-##RXD170003
+#Programmer's Name: Medha Aiyah
+#Programmer's Net ID: mva170001
 		.data 
 buffer: 	.space 		80
 array: 		.word 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
