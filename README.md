@@ -10,6 +10,8 @@ For the second assignment, I created a MIPS program that will use a dialog sysca
 
 # Homework 3
 
+For the third assignment, I created a MIPS program that will prompt a user for their name, their height, and their weight. Based on this information, the program will determine its BMI and output the results of the BMI. From there, it will determine whether a user is under weight, over weight, or normal and will display that output to the user.
+
 # Homework 5
 
 For the fifth assignment, I created a MIPS program that will use the selection sort to order the contents of a particular array. From there, it will determine the mean, the median, and the standard deviation for the array. After calculating these values, it will output the array before it was sorted, the array after it was sorted, the mean, the median, and the standard deviation.
