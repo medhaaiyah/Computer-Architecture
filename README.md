@@ -1,5 +1,7 @@
 # Computer-Architecture
 
+In this class, I learned the basics of programming in assembly language.
+
 # Homework 1
 
 For the first assignment, I created a MIPS program that prompts the user to type in their name and three numbers. With these numbers, I would perform three different operations. After it performs the operations, it will output the name, the numbers that the user typed in, and output of the three numbers after the three mathematical calculations.
